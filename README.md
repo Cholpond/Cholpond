@@ -6,7 +6,7 @@ Hi! I am a frontend software engineer with hands-on experience in building dynam
 
 Let's connect and create something truly exceptional! 
 You can reach out to me through   <a href="https://www.linkedin.com/in/cholpond/" target = 'blank'>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img width='30px' src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mail.dobulbekovach@gmail.com)
   </a>
 
