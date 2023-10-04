@@ -4,6 +4,8 @@
 
 Hi! I am a frontend software engineer with hands-on experience in building dynamic and intuitive web applications using JavaScript, React, Redux, HTML, and CSS. I possess prior experience in management that equips me with essential skills to analyze business requirements, collaborate effectively across multifunctional teams, foster an agile environment, and deliver outstanding products in compliance with ADA and WCAG standards. Dedicated to continuous learning and open to new opportunities to enhance my skills and expertise.
 
+---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
