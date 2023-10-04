@@ -2,7 +2,13 @@
 
 **`Frontend Developer`**
 
-Hi! I am a frontend software engineer with hands-on experience in building dynamic and intuitive web applications using JavaScript, React, Redux, HTML, and CSS. I love solving leetcode problems and listening to music. Just like music connects millions of people worldwide, I am passionate about connecting people through technology. Prior to my engineering career, I worked as a project manager. Leading teams of engineers, I learned the best ways to communicate effectively with both engineers and product managers, collaborate effectively across multifunctional teams, and adeptly analyze business requirements. As a committed lifelong learner, I am dedicated to continuous growth and eagerly embrace new opportunities to enhance and broaden my skill set and expertise.
+Hi! I am a frontend software engineer with hands-on experience in building dynamic and intuitive web applications using JavaScript, React, Redux, HTML, and CSS. I love solving leetcode problems and listening to music. Just like music connects millions of people worldwide, I am passionate about connecting people through technology. Prior to my engineering career, I worked as a project manager. Leading teams of engineers, I learned to effectively communicate with both engineers and product managers, collaborate seamlessly across multifunctional teams, and adeptly analyze business requirements. As a committed lifelong learner, I am dedicated to continuous growth and eagerly embrace new opportunities to enhance and broaden my skill set and expertise.
+
+Let's connect and create something truly exceptional! 
+You can reach out to me through   <a href="https://www.linkedin.com/in/cholpond/" target = 'blank'>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mail.dobulbekovach@gmail.com)
+  </a>
 
 ---
 
