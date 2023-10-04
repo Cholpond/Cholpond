@@ -19,3 +19,7 @@ Hi! I am a frontend software engineer with hands-on experience in building dynam
 <br />
 
 #
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cholpond&show_icons=true&theme=gruvbox)
