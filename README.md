@@ -2,7 +2,7 @@
 
 **`Frontend Developer`**
 
-Hi! I am a frontend software engineer with hands-on experience in building dynamic and intuitive web applications using JavaScript, React, Redux, HTML, and CSS. I possess prior experience in management that equips me with essential skills to analyze business requirements, collaborate effectively across multifunctional teams, foster an agile environment, and deliver outstanding products in compliance with ADA and WCAG standards. Dedicated to continuous learning and open to new opportunities to enhance my skills and expertise.
+Hi! I am a frontend software engineer with hands-on experience in building dynamic and intuitive web applications using JavaScript, React, Redux, HTML, and CSS. I love solving leetcode problems and listening to music. Just like music connects millions of people worldwide, I am passionate about connecting people through technology. Prior to my engineering career, I worked as a project manager. Leading teams of engineers, I learned the best ways to communicate effectively with both engineers and product managers, collaborate effectively across multifunctional teams, and adeptly analyze business requirements. As a committed lifelong learner, I am dedicated to continuous growth and eagerly embrace new opportunities to enhance and broaden my skill set and expertise.
 
 ---
 
