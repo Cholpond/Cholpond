@@ -1,4 +1,4 @@
-### Cholpon Dobulbek
+### Cholpon Dobulbekova
 
 **`Frontend Developer`**
 
